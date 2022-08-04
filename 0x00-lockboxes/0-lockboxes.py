@@ -4,9 +4,6 @@ module canUnlockAll
 """
 
 
-from matplotlib.pyplot import box
-
-
 def canUnlockAll(boxes):
     """
     Determines if all the boxes can be opened
