@@ -2,6 +2,14 @@
 <p>
 </p>
 
+> Repository for interview projects worked on Holberton
+
+## Author
+
+👤 **Jhonatan Rivera**
+
+* Github: [@jhonaRiver](https://github.com/jhonaRiver)
+
 ## Show your support
 
 Give a ⭐️ if this project helped you!
