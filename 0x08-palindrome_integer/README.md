@@ -15,7 +15,7 @@ Write a function that checks whether or not a given unsigned integer is a palind
 
 | Filename |
 | ------ |
-| [0-is_palindrome.c]()|
+| [0-is_palindrome.c](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x08-palindrome_integer/0-is_palindrome.c)|
 
 
 ## Additional info :construction:
@@ -26,7 +26,7 @@ Write a function that checks whether or not a given unsigned integer is a palind
 
 ### Try It On Your Machine :computer:
 ```bash
-git clone 
+git clone git@github.com:jhonaRiver/holbertonschool-interview.git
 cd 0x08-palindrome_integer
 gcc -Wall -Wextra -Werror -pedantic -g3 -o palindrome 0-main.c 0-is_palindrome.c
 ./palindrome NUMBER
