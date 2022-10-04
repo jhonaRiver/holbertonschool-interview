@@ -1,11 +1,18 @@
-<h1 align="center">Welcome to holbertonschool-interview 👋</h1>
-<p>
-</p>
+# Holberton School Interview
 
-> Repository for interview projects worked on Holberton
+> Real case challenges for interview applications in tech industry
 
-## Author
+## Projects inside this repo
 
-👤 **Jhonatan Rivera**
-
-* Github: [@jhonaRiver](https://github.com/jhonaRiver)
+| Project Directory| Summary |
+| ------------------------------------|----|
+| [0x00 Lockboxes](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x00-lockboxes)| Lockboxes challenge |
+| [0x01 Insert in sorted linked list](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x01-insert_in_sorted_linked_list)| Sorted linked list challenge |
+| [0x02 Heap insert](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x02-heap_insert)| Heap challenge |
+| [0x03 Minimum operations](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x03-minimum_operations)| Minimum operations challenge |
+| [0x04 Sandpiles](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x04-sandpiles)| Sandpiles challenge |
+| [0x05 Linked list palindrome](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x05-linked_list_palindrome)| Linked list palindrome challenge |
+| [0x06 Log parsing](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x06-log_parsing)| Log parsing challenge |
+| [0x07 Linked list cycle](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x07-linked_list_cycle)| Linked list cycle challenge |
+| [0x08 Palindrome integer](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x08-palindrome_integer)| Palindrome integer challenge |
+| [0x09 UTF-8 validation](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x09-utf8_validation)| UTF-8 validation challenge |
