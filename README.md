@@ -16,4 +16,4 @@
 | [0x07 Linked list cycle](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x07-linked_list_cycle)| Linked list cycle challenge |
 | [0x08 Palindrome integer](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x08-palindrome_integer)| Palindrome integer challenge |
 | [0x09 UTF-8 validation](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x09-utf8_validation)| UTF-8 validation challenge |
-| [0x0A 2048 (single line)]()| 2048 single line challenge |
+| [0x0A 2048 (single line)](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x0A-slide_line)| 2048 single line challenge |

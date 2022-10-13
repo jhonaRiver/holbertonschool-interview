@@ -22,4 +22,4 @@
 
 | Filename |
 | ------ |
-| [Task 0]()|
+| [Task 0](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x0A-slide_line/0-slide_line.c)|
