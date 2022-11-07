@@ -13,3 +13,8 @@ max_line_length = off
 max_line_length = 80
 tab_width = 8
 indent_size = tab
+
+[*.h]
+max_line_length = 80
+tab_width = 8
+indent_size = tab
