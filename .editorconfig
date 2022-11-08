@@ -8,15 +8,3 @@ trim_trailing_whitespace = true
 
 [*.md]
 max_line_length = off
-
-[*.c]
-max_line_length = 80
-tab_width = 2
-indent_size = tab
-indent_style = space
-
-[*.h]
-max_line_length = 80
-tab_width = 2
-indent_size = tab
-indent_style = space
