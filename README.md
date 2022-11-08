@@ -19,3 +19,4 @@
 | [0x0A 2048 (single line)](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x0A-slide_line)| 2048 single line challenge |
 | [0x0B Menger sponge](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x0B-menger)| Menger sponge challenge |
 | [0x0C N queens](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x0C-nqueens)| N queens puzzle |
+| [0x0D Array to AVL]()| Array to AVL challenge |
