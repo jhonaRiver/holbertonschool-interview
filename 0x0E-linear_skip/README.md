@@ -19,4 +19,4 @@
 
 | Filename |
 | ------ |
-| [0-linear_skip.c]()|
+| [0-linear_skip.c](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x0E-linear_skip/0-linear_skip.c)|
