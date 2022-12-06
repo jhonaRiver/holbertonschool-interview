@@ -17,5 +17,5 @@
 ## Results
 
 | Filename |
-| [0-heap_sort.c]()|
-| [0-O]()|
+| [0-heap_sort.c](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x11-heap_sort/0-heap_sort.c)|
+| [0-O](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x11-heap_sort/0-O)|
