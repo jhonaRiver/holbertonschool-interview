@@ -24,3 +24,4 @@
 | [0x0F-starwars_api](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x0F-starwars_api)| Star Wars API challenge|
 | [0x10-rain](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x10-rain)| Rain challenge|
 | [0x11-heap_sort](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x11-heap_sort)| Heap sort challenge|
+| [0x12-advanced_binary_search]()| Advanced binary search challenge|
