@@ -1,4 +1,4 @@
-# 0x13 Count it!
+# 0x13 Count it
 
 ## Tasks
 
@@ -18,4 +18,4 @@
 ## Results
 
 | Filename |
-| [0-count.py]()|
+| [0-count.py](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x13-count_it/0-count.py)|
