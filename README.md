@@ -27,3 +27,4 @@
 | [0x12-advanced_binary_search](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x12-advanced_binary_search)| Advanced binary search challenge|
 | [0x13-count_it](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x13-count_it)| Count it! Challenge|
 | [0x14-heap_extract](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x14-heap_extract)| Heap Extract Challenge|
+| [0x15-infinite_multiplication](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x15-infinite_multiplication)| Infinite multiplication challenge|
