@@ -32,4 +32,5 @@
 | [0x17-find_the_loop](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x17-find_the_loop)| Find the loop|
 | [0x18-merge_sort](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x18-merge_sort)| Merge sort|
 | [0x19-making_change](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x19-making_change)| Making change|
-| [0x1A-double_circular_linked_list]()| Double circular linked list|
+| [0x1A-double_circular_linked_list](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x1A-double_circular_linked_list)| Double circular linked list|
+| [0x1B-radix_sort]()| Radix sort|
