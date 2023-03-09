@@ -12,32 +12,32 @@
  */
 void csort2(int *array, int **buff, int size, int lsd)
 {
-    int i, j, csize = 10, num;
-    int carr[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-    int carr2[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+	int i, j, csize = 10, num;
+	int carr[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+	int carr2[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 
-    for (i = 0; i < size; i++)
-    {
-        num = array[i];
-        for (j = 0; j < lsd; j++)
-            if (j > 0)
-                num = num / 10;
-        num = num % 10;
-        buff[num][carr[num]] = array[i];
-        carr[num] += 1;
-    }
+	for (i = 0; i < size; i++)
+	{
+		num = array[i];
+		for (j = 0; j < lsd; j++)
+			if (j > 0)
+				num = num / 10;
+		num = num % 10;
+		buff[num][carr[num]] = array[i];
+		carr[num] += 1;
+	}
 
-    for (i = 0, j = 0; i < csize; i++)
-    {
-        while (carr[i] > 0)
-        {
-            array[j] = buff[i][carr2[i]];
-            carr2[i] += 1, carr[i] -= 1;
-            j++;
-        }
-    }
+	for (i = 0, j = 0; i < csize; i++)
+	{
+		while (carr[i] > 0)
+		{
+			array[j] = buff[i][carr2[i]];
+			carr2[i] += 1, carr[i] -= 1;
+			j++;
+		}
+	}
 
-    print_array(array, size);
+	print_array(array, size);
 }
 /**
  * csort - auxiliary function of radix sort
@@ -50,38 +50,38 @@ void csort2(int *array, int **buff, int size, int lsd)
  */
 void csort(int *array, int size, int lsd)
 {
-    int carr[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
-    int i, j, num, csize = 10, **buff;
+	int carr[10] = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+	int i, j, num, csize = 10, **buff;
 
-    for (i = 0; i < size; i++)
-    {
-        num = array[i];
-        for (j = 0; j < lsd; j++)
-            if (j > 0)
-                num = num / 10;
-        num = num % 10;
-        carr[num] += 1;
-    }
+	for (i = 0; i < size; i++)
+	{
+		num = array[i];
+		for (j = 0; j < lsd; j++)
+			if (j > 0)
+				num = num / 10;
+		num = num % 10;
+		carr[num] += 1;
+	}
 
-    if (carr[0] == size)
-        return;
+	if (carr[0] == size)
+		return;
 
-    buff = malloc(sizeof(int *) * 10);
-    if (!buff)
-        return;
+	buff = malloc(sizeof(int *) * 10);
+	if (!buff)
+		return;
 
-    for (i = 0; i < csize; i++)
-        if (carr[i] != 0)
-            buff[i] = malloc(sizeof(int) * carr[i]);
+	for (i = 0; i < csize; i++)
+		if (carr[i] != 0)
+			buff[i] = malloc(sizeof(int) * carr[i]);
 
-    csort2(array, buff, size, lsd);
+	csort2(array, buff, size, lsd);
 
-    csort(array, size, lsd + 1);
+	csort(array, size, lsd + 1);
 
-    for (i = 0; i < csize; i++)
-        if (carr[i] > 0)
-            free(buff[i]);
-    free(buff);
+	for (i = 0; i < csize; i++)
+		if (carr[i] > 0)
+			free(buff[i]);
+	free(buff);
 }
 /**
  * radix_sort - sorts an array of integers in ascending order using the Radix
@@ -94,7 +94,7 @@ void csort(int *array, int size, int lsd)
  */
 void radix_sort(int *array, size_t size)
 {
-    if (size < 2)
-        return;
-    csort(array, size, 1);
+	if (size < 2)
+		return;
+	csort(array, size, 1);
 }
