@@ -35,3 +35,4 @@
 | [0x1A-double_circular_linked_list](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x1A-double_circular_linked_list)| Double circular linked list|
 | [0x1B-radix_sort](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x1B-radix_sort)| Radix sort|
 | [0x1C-island_perimeter](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x1C-island_perimeter)| Island perimeter|
+| [0x1D-avl_trees]()| AVL Trees|
