@@ -11,4 +11,4 @@
 
 | Filename |
 | ------ |
-| [0-pascal_triangle.py]()|
+| [0-pascal_triangle.py](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x1F-pascal_triangle/0-pascal_triangle.py)|
