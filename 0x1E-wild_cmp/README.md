@@ -12,4 +12,4 @@
 
 | Filename |
 | ------ |
-| [0-wildcmp.c]()|
+| [0-wildcmp.c](https://github.com/jhonaRiver/holbertonschool-interview/blob/master/0x1E-wild_cmp/0-wildcmp.c)|
