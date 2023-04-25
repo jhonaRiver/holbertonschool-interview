@@ -40,3 +40,4 @@
 | [0x1F-pascal_triangle](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x1F-pascal_triangle)| Pascal's Triangle|
 | [0x20-regex](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x20-regex)| RegEx|
 | [0x21-substring](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x21-substring)| Substring with concatenated words|
+| [0x22-primegame](https://github.com/jhonaRiver/holbertonschool-interview/tree/master/0x22-primegame)| Prime Game|
