@@ -10,7 +10,7 @@ def canUnlockAll(boxes):
     Args:
         boxes (list): list of lists
     """
-    keyset = [0]
+    keysets = [0]
     for key in keyset:
         for content in boxes[key]:
             if content not in keyset and content < len(boxes):
